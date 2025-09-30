@@ -1,6 +1,6 @@
 # Olist — Brazilian E-Commerce Power BI Report
 
-**Project:** Power BI report (3 pages) using the Olist Brazilian E-commerce dataset (Kaggle)
+**Project:** Power BI report using the Olist Brazilian E-commerce dataset (Kaggle)
 
 ---
 
@@ -10,7 +10,7 @@ This repository contains a Power BI report that demonstrates multi-table data mo
 1. **Sales Overview** — KPI cards, monthly sales trend, payment mix, top product categories, top products, and geographic sales view.  
 2. **Customer Insights** — new vs repeat analysis, Customer Lifetime Value (CLV), sentiment, and top customers.  
 3. **Sales Decomposition** — revenue flow from geography → category → product → seller → payment.
-4. 
+
 ---
 
 ## Important — Large files (dataset & .pbix)
